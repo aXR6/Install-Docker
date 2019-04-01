@@ -16,6 +16,6 @@ Script MEGA SIMPLES para a instalação do Docker, chaves de registros e reposit
 ```
 1 - git clone https://github.com/aXR6/Install-Docker.git
 2 - cd Install-Docker/
-2 - chmod 777 DockerInstall
-3 - ./DockerInstall
+3 - chmod 777 DockerInstall
+4 - ./DockerInstall
 ```
