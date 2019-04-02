@@ -19,3 +19,5 @@ Script MEGA SIMPLES para a instalação do Docker, chaves de registros e reposit
 3 - chmod 777 DockerInstall
 4 - ./DockerInstall
 ```
+# Mais explicações no YouTube:
+[![#InstallFEST[aXR6] - Instalando o Docker no Kali Linux 2019.1 (SIMPLES E BÁSICO)](https://i.imgur.com/LA85ZXf.png)](https://www.youtube.com/watch?v=HT0731ouQWQ)
